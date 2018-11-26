@@ -1,0 +1,57 @@
+
+…"squid:ClassVariableVisibilityCheck"TMake vehicles a static final constant or non-public and provide accessors if needed.(°²¤Êúÿÿÿÿ
+?squid:S1444"*Make this "public static rows" field final(’ó†ù
+Tsquid:S1197"8Move the array designator from the variable to the type.(Íµâï8ÂÚ,
+Nsquid:S1481"-Remove this unused "bestRide" local variable.(ƒİ‚Õıÿÿÿÿ8ÿÜœ¾,
+}"squid:ClassVariableVisibilityCheck"QMake rides a static final constant or non-public and provide accessors if needed.(„œàò
+Csquid:S1444"/Make this "public static fileNames" field final(¿ ¼\
+†"squid:ClassVariableVisibilityCheck"UMake ridesList a static final constant or non-public and provide accessors if needed.(ôãÜÖúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Î•8ÂÚ,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ¤Æ¬
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÚ,
+9squid:S2386"$Make member "ridesList" "protected".(œÁ””
+€"squid:ClassVariableVisibilityCheck"UMake fileNames a static final constant or non-public and provide accessors if needed.(¿ ¼\
+8squid:S1643"Use a StringBuilder instead.(ÍáŸ8­ÿÚ¿,
+Hsquid:S1444".Make this "public static vehicles" field final(°²¤Êúÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´İşşÿÿÿÿ8ÂÚ,
+Tsquid:S1197"8Move the array designator from the variable to the type.(Â ‡õ8ÂÚ,
+‡squid:S1319"rThe type of the "carList" object should be an interface such as "List" rather than the implementation "ArrayList".(‡—ÕÅ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰„éÑùÿÿÿÿ
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(óÊâşÿÿÿÿ8³¥÷Ö,
+@squid:S1444"+Make this "public static rides" field final(„œàò
+8squid:S1643"Use a StringBuilder instead.(¹Öê8­ÿÚ¿,
+squid:S1319"tThe type of the "ridesList" object should be an interface such as "List" rather than the implementation "ArrayList".(ôãÜÖúÿÿÿÿ
+Bsquid:S1444"-Make this "public static columns" field final(ÎÕãÚ
+1squid:S1220""Move this file to a named package.
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àı–Åûÿÿÿÿ
+Xsquid:S1854"<Remove this useless assignment to local variable "freeCars".(şæ˜®8ÍëöØ,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôİã½
+‚"squid:ClassVariableVisibilityCheck"QMake steps a static final constant or non-public and provide accessors if needed.(ÿ½ùÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake columns a static final constant or non-public and provide accessors if needed.(ÎÕãÚ
+8squid:S1643"Use a StringBuilder instead.(á‡¢¿8­ÿÚ¿,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÇéêøÿÿÿÿ
+Esquid:S1444"+Make this "public static bonus" field final(ßË”Šúÿÿÿÿ
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ú¸ÃÆ8ÂÚ,
+Esquid:S1444"+Make this "public static steps" field final(ÿ½ùÿÿÿÿÿ
+~squid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(µÖ€’8ÂÚ,
+Isquid:S1444"/Make this "public static ridesList" field final(ôãÜÖúÿÿÿÿ
+|"squid:ClassVariableVisibilityCheck"PMake rows a static final constant or non-public and provide accessors if needed.(’ó†ù
+1squid:S2386"Make this member "protected".(¿ ¼\
+Bsquid:S1444"-Make this "public static carList" field final(‡—ÕÅ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Ä¯4
+"squid:ClassVariableVisibilityCheck"SMake carList a static final constant or non-public and provide accessors if needed.(‡—ÕÅ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(É˜•8ÂÚ,
+^squid:S1854"=Remove this useless assignment to local variable "totalTime".(ñŞ³§ùÿÿÿÿ8ÀÊ•ß,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(è—Ò
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï¢”Ôıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"QMake bonus a static final constant or non-public and provide accessors if needed.(ßË”Šúÿÿÿÿ
+<squid:S2386""Make member "carList" "protected".(Àı–Åûÿÿÿÿ

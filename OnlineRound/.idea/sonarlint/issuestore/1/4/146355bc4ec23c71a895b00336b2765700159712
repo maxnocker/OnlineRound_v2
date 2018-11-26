@@ -1,0 +1,13 @@
+
+tsquid:S1450"SRemove the "free" field and declare it as a local variable in the relevant methods.(ƒáİÍúÿÿÿÿ8‹ë½,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ıì¤
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ø¨ğªüÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïŠŠ¬øÿÿÿÿ
+Lsquid:S1172"+Remove this unused method parameter "free".(ÿ¯—¬üÿÿÿÿ8Ş´ÿ¼,
+]squid:S1126"AReplace this if-then-else statement by a single return statement.(ÍÁâ¥8‹ë½,
+Csquid:S1940")Use the opposite operator ("!=") instead.(æÀúøÿÿÿÿ
+Usquid:S1126"AReplace this if-then-else statement by a single return statement.(Ó…øH
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•®»¥
+1squid:S1220""Move this file to a named package.
+Isquid:S1068"(Remove this unused "free" private field.(ƒáİÍúÿÿÿÿ8‹ë½,
